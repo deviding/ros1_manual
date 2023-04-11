@@ -22,8 +22,8 @@ ROS1に初めて触れる方への入門や参考になれば幸いです。
 - [2-5：PublisherとSubscriber(python)](./02_base/2-05.md)
 - [2-6：メッセージ](./02_base/2-06.md)
 - [2-7：サービス](./02_base/2-07.md)
-- [2-7：サービスとクライアント(python)](./02_base/2-07.md)
-- [2-7：roslaunch](./02_base/2-07.md)
+- [2-8：roslaunch](./02_base/2-08.md)
+
 - [2-8：メッセージとサービス](./02_base/2-08.md)
 - [2-9：PublisherとSubscriber](./02_base/2-09.md)
 - [2-10：サービスクライアント](./02_base/2-10.md)
