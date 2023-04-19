@@ -31,8 +31,18 @@ ROS1に初めて触れる方への入門や参考になれば幸いです。
 - [3-2：tfのbroadcasterとlistener(C++)](./03_tf/3-02.md)
 - [3-3：フレームの追加(C++)](./03_tf/3-03.md)
 - [3-4：tfの時間(C++)](./03_tf/3-04.md)
+- [3-5：tfのbroadcasterとlistener(python)](./03_tf/3-05.md)
+- [3-6：フレームの追加(python)](./03_tf/3-06.md)
+- [3-7：tfの時間(python)](./03_tf/3-07.md)
 
-### 4：おすすめ参考資料
+### 4：Turtlebot3を使ったシミュレーション
+
+
+### 5：Simple Action Server
+
+
+
+### 参考資料
 
 |リンク|内容|
 |---|---|
