@@ -36,8 +36,9 @@ ROS1に初めて触れる方への入門や参考になれば幸いです。
 - [3-7：tfの時間(python)](./03_tf/3-07.md)
 
 ### 4：Turtlebot3を使ったシミュレーション
-- [4-1：Turtlebot3について](./04_turtlebot/4-01.md)
-
+- [4-1：Turtlebot3の概要](./04_turtlebot/4-01.md)
+- [4-2：Turtlebot3の環境構築](./04_turtlebot/4-02.md)
+- [4-3：GazeboとTurtlebot3の簡単なシミュレーション](./04_turtlebot/4-03md)
 
 - [4-X：地図の作成](./04_turtlebot/4-0X.md)
 - [4-X：AMCL](./04_turtlebot/4-0X.md)
@@ -54,6 +55,10 @@ ROS1に初めて触れる方への入門や参考になれば幸いです。
 |リンク|内容|
 |---|---|
 |[ROS1公式wiki](https://wiki.ros.org/ja/)|ROS1の公式wikiの日本語版。チュートリアルなど情報が豊富だが、あまり親切でなかったり、翻訳されてないページがあったり、サンプルがそのままでは動かなかったりするので注意が必要。|
+|[ROBOTIS Turtlebot3ページ](https://e-shop.robotis.co.jp/list.php?c_id=93)|ROBOTISさんのTurtlebot3のページ|
+|[Turtlebot3 Githubページ](https://github.com/ROBOTIS-GIT/turtlebot3)|Turtlebot3のROSパッケージなどが置かれているGitHubページ|
+|[Turtlebot3 wiki](https://wiki.ros.org/turtlebot3)|Turtlebot3のWiki。ROSの公式wikiと同じようにわかりにくかったりする。|
+|[Turtlebot3 e-manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)|Turtlebot3のe-manual。wikiよりもこっちの方がexampleなどがあるのでわかりやすいかも。|
 
 
 ## 更新履歴
