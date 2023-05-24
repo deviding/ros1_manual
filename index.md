@@ -38,7 +38,7 @@ ROS1に初めて触れる方への入門や参考になれば幸いです。
 ### 4：Turtlebot3を使ったシミュレーション
 - [4-1：Turtlebot3の概要](./04_turtlebot/4-01.md)
 - [4-2：Turtlebot3の環境構築](./04_turtlebot/4-02.md)
-- [4-3：GazeboとTurtlebot3の簡単なシミュレーション](./04_turtlebot/4-03md)
+- [4-3：GazeboとTurtlebot3の簡単なシミュレーション](./04_turtlebot/4-03.md)
 - [4-4：地図の作成](./04_turtlebot/4-04.md)
 - [4-X：AMCL](./04_turtlebot/4-0X.md)
 - [4-X：Navigation](./04_turtlebot/4-0X.md)
