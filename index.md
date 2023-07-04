@@ -39,20 +39,24 @@ ROS1に初めて触れる方への入門や参考になれば幸いです。
 - [4-1：Turtlebot3の概要](./04_turtlebot/4-01.md)
 - [4-2：Turtlebot3の環境構築](./04_turtlebot/4-02.md)
 - [4-3：GazeboとTurtlebot3の簡単なシミュレーション](./04_turtlebot/4-03.md)
-- [4-4：地図の作成](./04_turtlebot/4-04.md)
-- [4-X：AMCL](./04_turtlebot/4-0X.md)
-- [4-X：Navigation](./04_turtlebot/4-0X.md)
+- 4-4：地図の作成(準備中)
+- 4-5：AMCL(準備中)
+- 4-6：Navigation(準備中)
 
 ### 5：Simple Action Server(actionlib)
+- 準備中
 
 ### 6：PCL(Point Cloud Library)
+- 準備中
 
 ### 7：Nodelet
+- 準備中
 
 ### 参考資料
 
 |リンク|内容|
 |---|---|
+|[ros1_practice(Github)](https://github.com/deviding/ros1_practice)|ROS1学習用テキスト内で作成したものを集めたリポジトリ。|
 |[ROS1公式wiki](https://wiki.ros.org/ja/)|ROS1の公式wikiの日本語版。チュートリアルなど情報が豊富だが、あまり親切でなかったり、翻訳されてないページがあったり、サンプルがそのままでは動かなかったりするので注意が必要。|
 |[ROBOTIS Turtlebot3ページ](https://e-shop.robotis.co.jp/list.php?c_id=93)|ROBOTISさんのTurtlebot3のページ|
 |[Turtlebot3 Githubページ](https://github.com/ROBOTIS-GIT/turtlebot3)|Turtlebot3のROSパッケージなどが置かれているGitHubページ|
@@ -64,4 +68,4 @@ ROS1に初めて触れる方への入門や参考になれば幸いです。
 
 |日付|内容|
 |---|---|
-|2022/10/26|初版として公開|
+|2023/07/04|初版として公開|
